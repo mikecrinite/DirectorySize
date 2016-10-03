@@ -1,5 +1,11 @@
 *.class
 
+# Unnecessary Folders #
+build/
+dist/
+nbproject/
+build.xml
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
